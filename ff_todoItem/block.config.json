@@ -1,0 +1,22 @@
+{
+  "name": "ff_todoItem",
+  "type": "ui-elements",
+  "source": {
+    "https": "",
+    "ssh": "",
+    "branch": "block_ff_todoItem"
+  },
+  "language": "js",
+  "start": "npx webpack-dev-server",
+  "build": "npx webpack",
+  "postPull": "npm i",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "blockId": "W4d2qPl5qy90GI5LMeh-0",
+  "isPublic": true,
+  "repoType": "mono",
+  "parentBlockIDs": [
+    "VncA6W9APPxhj-U73M9X2"
+  ]
+}
