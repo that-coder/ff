@@ -2,8 +2,8 @@
   "name": "ff_todoInput",
   "type": "ui-elements",
   "source": {
-    "https": "",
-    "ssh": "",
+    "https": "https://github.com/that-coder/ff.git",
+    "ssh": "git@github.com:that-coder/ff.git",
     "branch": "block_ff_todoInput"
   },
   "language": "js",

@@ -2,8 +2,8 @@
   "name": "ff",
   "type": "package",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/that-coder/ff.git",
+    "ssh": "git@github.com:that-coder/ff.git",
     "branch": "block_ff"
   },
   "dependencies": {
