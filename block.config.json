@@ -1,0 +1,36 @@
+{
+  "name": "ff",
+  "type": "package",
+  "source": {
+    "https": "https://github.com/that-coder/ff.git",
+    "ssh": "git@github.com:that-coder/ff.git",
+    "branch": "block_ff"
+  },
+  "dependencies": {
+    "ff_listTodos": {
+      "directory": "ff_listTodos"
+    },
+    "ff_addTodo": {
+      "directory": "ff_addTodo"
+    },
+    "ff_removeTodo": {
+      "directory": "ff_removeTodo"
+    },
+    "ff_todoItem": {
+      "directory": "ff_todoItem"
+    },
+    "ff_todoInput": {
+      "directory": "ff_todoInput"
+    },
+    "ff_todoContainer": {
+      "directory": "ff_todoContainer"
+    }
+  },
+  "blockId": "VncA6W9APPxhj-U73M9X2",
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
